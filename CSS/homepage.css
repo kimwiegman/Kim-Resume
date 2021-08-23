@@ -1,0 +1,157 @@
+header h1 {
+    color: white;
+    font-size: 50px;
+    padding-top: 48px;
+    border-bottom: 3px solid rgb(54, 54, 83);
+    padding-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 51.75%;
+    margin-top: 0;
+    
+}
+
+header p {
+    font-size: 24px;
+    padding-left: 128px;
+
+}
+header {
+    background-image: url(../images/lavender.jpg);
+    background-position: left center;
+    background-repeat: no-repeat;
+    
+
+}
+
+
+
+.kim-pic {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    float: center;
+    
+}
+.container {
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content-area {
+    border-top: 3px solid rgb(54, 54, 83);
+    border-bottom: 3px solid rgb(54, 54, 83);
+  margin-top: 0px;
+    padding-bottom: 30px;
+    
+   
+}
+
+section p {
+    margin-top: 5px;
+
+}
+
+.welcome {
+    width: 65%;
+    float: left;
+    color:rgb(54, 54, 83);
+}
+
+.profile {
+    width: 65%;
+    float: left;
+    color:rgb(54, 54, 83);
+}
+
+.group:before,
+.group:after {
+    content: "";
+    display: table;
+}
+
+.group:after {
+    clear:both;
+
+}
+
+.group {
+    zoom: 1;
+}
+
+html {
+    background-image: linear-gradient(to bottom, rgb(168, 103, 253), rgb(222, 199, 252));
+}
+
+.box-a {
+    background-image: linear-gradient(to bottom, white, rgb(222, 199, 252));
+    
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-bottom: 150px;
+
+}
+
+
+
+.site-nav li {
+    list-style: none;
+    float:left;
+    margin-left: 10px;
+    padding-bottom: px;
+    
+}
+.site-nav ul {
+    margin: 0;
+    padding: 0;
+
+}
+.site-nav a{
+    display: block;
+    color: rgb(54, 54, 83);
+    text-decoration: none;
+    padding: 8px 20px;
+    border: 3px solid rgb(54, 54, 83);
+    font-size: 20px;
+    background-color: white;
+    border-bottom: none;
+}
+
+.site-nav {
+    margin-left: 192px;
+    margin-bottom: 0px;
+}
+
+.site-nav a:hover {
+    background-image: linear-gradient(to bottom, white, rgb(222, 199, 252));
+}
+
+.box-b {
+    background-image: linear-gradient(to top, rgb(168, 103, 253), rgb(54, 54, 83));
+   
+    width: 25%;
+    float: right;
+    
+
+}
+
+.profile h1 {
+    font-size: 36px;
+    margin-bottom: 5px;
+    
+}
+
+.profile p {
+    font-size: 20px;
+}
+
+.profile a:link {
+    text-decoration: none;
+    
+}
+
+.profile a:hover {
+    background-image: linear-gradient(to bottom, white, rgb(222, 199, 252));
+}
